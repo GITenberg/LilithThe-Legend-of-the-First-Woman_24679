@@ -1,0 +1,28 @@
+_repo: LilithThe-Legend-of-the-First-Woman_24679
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24679-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Collier, Ada Langworthy
+    birthdate: 1843
+    gutenberg_agent_id: '26667'
+    url: http://www.gutenberg.org/2009/agents/26667
+description: ''
+gutenberg_issued: '2008-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcsh 'Lilith (Semitic mythology) -- Poetry'
+- !lcc 'PS'
+title: 'Lilith
+
+  The Legend of the First Woman'
+url: http://www.gutenberg.org/ebooks/24679
